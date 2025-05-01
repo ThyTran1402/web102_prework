@@ -1,10 +1,10 @@
-# WEB102 Prework - Sea Monster Crowdfunding
+# WEB102 Prework - **Sea Monster Crowdfunding**
 
-Submitted by: Thy Tran
+Submitted by: **Thy Tran**
 
-Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 8 hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
