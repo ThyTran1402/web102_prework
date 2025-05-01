@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='c:\Users\ttran\OneDrive\Documents\TimeSheet\Downloads\CodePath Web102 Prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='CodePath Web102 Prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -33,7 +33,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I have encountered challenges in implementing the search bar functionality and making the design more user-friendly and attractive. Thus, I need to take a bit of time to research and implement it. Moreover, there are some event handlers and working with DOM manipulation that I need to handle carefully. 
 
 ## License
 
